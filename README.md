@@ -4,7 +4,7 @@ https://cdn.cnbj1.fds.api.mi-img.com/ota-packages/uhs__XiaomiPCManager_hyperos2_
 
 将下载的安装包和提供的环境补丁放在同一文件夹内，双击安装包安装
 
-安装结束后先不要运行，将环境补丁复制到如下位置
+安装结束后先不要运行，将环境补丁复制到如下位置（wtsapi32.dll）
 
 C:\Program Files\MI\XiaomiPCManager
 

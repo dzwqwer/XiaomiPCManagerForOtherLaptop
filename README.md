@@ -2,6 +2,9 @@ https://cdn.cnbj1.fds.api.mi-img.com/ota-packages/uhs__XiaomiPCManager_hyperos2_
 
 这个是所需的小米电脑管家的安装包（如果失效的话请去官网下载：https://hyperos.mi.com/continuity ），目前5.2版本可以使用（据说5.3/5.2/5.0/4.3/4.2/4.0/1.0也可以），其他的没有试
 
+环境补丁快捷 cdn:
+https://cdn.jsdelivr.net/gh/dzwqwer/XiaomiPCManagerForOtherLaptop@main/wtsapi32.dll
+
 将下载的安装包和提供的环境补丁放在同一文件夹内，双击安装包安装
 
 安装结束后先不要运行，将环境补丁复制到如下位置（wtsapi32.dll）
